@@ -1,0 +1,1 @@
+My training in creating web applications using the django framework
